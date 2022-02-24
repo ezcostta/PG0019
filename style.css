@@ -61,7 +61,7 @@ body {
   /* width: 100px;*/
   padding: 8px 10px;
   margin-right: 5px;
-  font-size: 0.9em;
+  font-size: 1.1em;
   /*   border: 1px solid red; */
   border-radius: 10px 10px 0 0;
   /* height: 33px; */
@@ -103,7 +103,8 @@ body {
   background: #f54f34;
   color: #fff;
   padding: 8px;
-  font-size: 1.4em;
+  font-size: 1.6em;
+  font-weight: bolder;
 }
 
 .dias {
@@ -114,6 +115,8 @@ body {
   padding: 5px;
   text-align: center;
   width: 20%;
+  font-size: 1.5em;
+  font-weight: bolder;
 }
 
 .group-table {
@@ -132,6 +135,8 @@ body {
   font-weight: normal;
   background: #f54f34;
   color: #fff;
+  font-size: 1.5em;
+  font-weight: bold;
 }
 .group-table td {
   /* 	border:1px solid #ddd; */
@@ -145,6 +150,7 @@ td:nth-child(3) {
 .group-table th,
 .group-table td {
   border-right: 1px solid #ddd;
+  font-size: 1.2em;
 }
 
 .group-table th:last-child,
